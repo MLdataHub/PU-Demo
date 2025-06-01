@@ -1,4 +1,4 @@
 # PU-Demo
 Working on my PU-Demo Project.
 <br>
-Author - Ashish Pal
+Author - Ashish (PU College)
